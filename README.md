@@ -2,6 +2,12 @@
 
 This is a fork of https://github.com/jamalhassouni/todoApp. We are using it to see if you have the ability to install it and make it run. 
 
+To complete this you must make the API and the UI work together. 
+
+* [Todo API](https://github.com/richie-chauhan/TodoAppAPI)
+* [Todo UI](https://github.com/richie-chauhan/TodoAppUI) - This project
+
+
 ## Details
 A single-page web application, built using the React framework , php And Mysql 
 
