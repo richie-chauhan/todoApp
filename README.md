@@ -1,6 +1,6 @@
 ## Todo List React js and PHP
 
-This is a fork of https://github.com/jamalhassouni/todoApp. We are using it to see if you have the ability to install it and make it run. 
+This is a fork of jamalhassouni/todoApp. We are using it to see if you have the ability to install it and make it run. 
 
 To complete this you must make the API and the UI work together. 
 
