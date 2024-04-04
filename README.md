@@ -27,13 +27,13 @@ To install this project you need to clone or download it.
 git clone https://github.com/jamalhassouni/todoApp.git
 cd todoApp
 ```
-1. Install the dependencies - `npm install`
+1. Run the [Todo List API](https://github.com/richie-chauhan/TodoAppAPI) first. 
 
-2. Start the app - `npm start`
+2. Edit  `src/utils/TodosApi.js` and change `http://api.todo.com/` to `http://localhost:8080/` (assuming you installed the API on the same server)
 
-3. you need also to run the [Todo List API](https://github.com/richie-chauhan/TodoAppAPI).
+3. Install the dependencies - `npm install`
 
-4. go to  `src/utils/TodosApi.js` and change `http://api.todo.com/` to `http://localhost:8080/` (assuming you installed the API on the same server)
+4. Start the app - `npm start`
 
 ## Technology
 - ReactJs
