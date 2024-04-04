@@ -27,7 +27,7 @@ cd todoApp
 
 2. Start the app - `npm start`
 
-3. you need also to run this Todo list api  from here [Todo List API](https://github.com/jamalhassouni/Todo-List-API).
+3. you need also to run this Todo list api  from here [Todo List API](https://github.com/richie-chauhan/TodoAppAPI).
 
 4. go to  `src/utils/TodosApi.js`   And change http://api.todo.com/ with the link on which the server was installed
 
