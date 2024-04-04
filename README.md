@@ -1,4 +1,7 @@
 ## Todo List React js and PHP
+
+This is a fork of https://github.com/jamalhassouni/todoApp. We are using it to see if you have the ability to install it and make it run. 
+
 ## Details
 A single-page web application, built using the React framework , php And Mysql 
 
